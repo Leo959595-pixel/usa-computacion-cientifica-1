@@ -9,4 +9,4 @@
 
  | Estudiante | Correo | Repositorio |
 | ------ | ----------- | ----------- |
-| student-name | student@mail.com  | student-repo.git  |
+|Hola Hola Hola| student-repo.git  |
